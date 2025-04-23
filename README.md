@@ -13,7 +13,7 @@ This is a React portfolio site for the JSXML Assignment 2, built with Vite and s
 
 ## Live Demo
 
-[View the live site](https://jsxml-assignment2-frontend.onrender.com)  
+[View the live site](https://jsxml-assignment-2-react-site.onrender.com/)  
 
 ## GitHub Repository
 
