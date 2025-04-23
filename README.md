@@ -13,8 +13,7 @@ This is a React portfolio site for the JSXML Assignment 2, built with Vite and s
 
 ## Live Demo
 
-[View the live site](https://your-vercel-url.vercel.app)  
-*(Replace with actual URL after deployment)*
+[View the live site](https://jsxml-assignment2-frontend.onrender.com)  
 
 ## GitHub Repository
 
